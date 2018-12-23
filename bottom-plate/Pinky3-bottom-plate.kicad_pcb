@@ -11,7 +11,7 @@
 
   (page A4)
   (title_block
-    (title "Pinky4 Bottom Plate Design")
+    (title "Pinky3 Bottom Plate Design")
     (date 2018-12-23)
     (rev 0.3)
     (company @tamanishi)
@@ -177,7 +177,7 @@
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (dimension 100.8 (width 0.3) (layer F.CrtYd)
-    (gr_text "100.800 mm" (at 35.637587 104.7 270) (layer F.CrtYd) (tstamp 5C1F7DB9)
+    (gr_text "100.800 mm" (at 35.637587 104.7 270) (layer F.CrtYd)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (feature1 (pts (xy 41 155.1) (xy 37.151166 155.1)))

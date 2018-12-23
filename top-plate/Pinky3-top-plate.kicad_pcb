@@ -11,7 +11,7 @@
 
   (page A4)
   (title_block
-    (title "Pinky4 PCB Design")
+    (title "Pinky3 Top Plate Design")
     (date 2018-12-23)
     (rev 0.3)
     (company @tamanishi)
@@ -387,7 +387,7 @@
   (gr_line (start 43 62.05) (end 43 76.05) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 155.06 123.85) (end 167.85 129.54) (layer Edge.Cuts) (width 0.15))
 
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5BFDCB9E) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5C1F8D41) (hatch edge 0.508)
     (connect_pads (clearance 0.3))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -399,7 +399,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5BFDCBA1) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5C1F8D3E) (hatch edge 0.508)
     (connect_pads (clearance 0.3))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
