@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Pinky-cache
+LIBS:Pinky3-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L kbd:ProMicro U1
+L Pinky3-rescue:ProMicro-kbd U1
 U 1 1 5BC2FDFC
 P 1905 2195
 F 0 "U1" H 1905 3232 60  0000 C CNN
@@ -71,7 +71,7 @@ Wire Wire Line
 Wire Wire Line
 	3055 1745 3055 1395
 $Comp
-L kbd:SW_PUSH SW5
+L Pinky3-rescue:SW_PUSH-kbd SW5
 U 1 1 5BC302DC
 P 5840 3570
 F 0 "SW5" H 5840 3825 50  0000 C CNN
@@ -98,7 +98,7 @@ col1
 Text GLabel 2605 1645 2    50   Input ~ 0
 reset
 $Comp
-L kbd:SW_PUSH SW1
+L Pinky3-rescue:SW_PUSH-kbd SW1
 U 1 1 5BC2BB1A
 P 1975 4845
 F 0 "SW1" H 1975 5100 50  0000 C CNN
@@ -124,7 +124,7 @@ $EndComp
 Text GLabel 2980 3670 2    50   Input ~ 0
 data
 $Comp
-L kbd:MJ-4PP-9 J1
+L Pinky3-rescue:MJ-4PP-9-kbd J1
 U 1 1 5BCC34EB
 P 1655 3595
 F 0 "J1" H 1685 3871 50  0000 C CNN
@@ -219,7 +219,7 @@ NoConn ~ 1205 2545
 NoConn ~ 2605 1445
 NoConn ~ 2605 2545
 $Comp
-L kbd:SW_PUSH SW3
+L Pinky3-rescue:SW_PUSH-kbd SW3
 U 1 1 5BD6F90B
 P 4920 4230
 F 0 "SW3" H 4920 4485 50  0000 C CNN
@@ -230,7 +230,7 @@ F 3 "" H 4920 4230 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW4
+L Pinky3-rescue:SW_PUSH-kbd SW4
 U 1 1 5BD708BE
 P 4920 4910
 F 0 "SW4" H 4920 5165 50  0000 C CNN
@@ -241,7 +241,7 @@ F 3 "" H 4920 4910 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW6
+L Pinky3-rescue:SW_PUSH-kbd SW6
 U 1 1 5BD70F56
 P 5840 4230
 F 0 "SW6" H 5840 4485 50  0000 C CNN
@@ -252,7 +252,7 @@ F 3 "" H 5840 4230 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW7
+L Pinky3-rescue:SW_PUSH-kbd SW7
 U 1 1 5BD71F0E
 P 5840 4910
 F 0 "SW7" H 5840 5165 50  0000 C CNN
@@ -263,7 +263,7 @@ F 3 "" H 5840 4910 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW2
+L Pinky3-rescue:SW_PUSH-kbd SW2
 U 1 1 5BC302D5
 P 4920 3570
 F 0 "SW2" H 4920 3825 50  0000 C CNN
@@ -285,7 +285,7 @@ F 3 "~" H 5220 3720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L kbd:SW_PUSH SW8
+L Pinky3-rescue:SW_PUSH-kbd SW8
 U 1 1 5BDBCD8D
 P 6730 3570
 F 0 "SW8" H 6730 3825 50  0000 C CNN
@@ -296,7 +296,7 @@ F 3 "" H 6730 3570 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW11
+L Pinky3-rescue:SW_PUSH-kbd SW11
 U 1 1 5BDBD8D0
 P 7605 3570
 F 0 "SW11" H 7605 3825 50  0000 C CNN
@@ -307,7 +307,7 @@ F 3 "" H 7605 3570 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW9
+L Pinky3-rescue:SW_PUSH-kbd SW9
 U 1 1 5BDBDE28
 P 6730 4230
 F 0 "SW9" H 6730 4485 50  0000 C CNN
@@ -318,7 +318,7 @@ F 3 "" H 6730 4230 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW12
+L Pinky3-rescue:SW_PUSH-kbd SW12
 U 1 1 5BDBE29C
 P 7605 4230
 F 0 "SW12" H 7605 4485 50  0000 C CNN
@@ -329,7 +329,7 @@ F 3 "" H 7605 4230 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW10
+L Pinky3-rescue:SW_PUSH-kbd SW10
 U 1 1 5BDBE802
 P 6730 4910
 F 0 "SW10" H 6730 5165 50  0000 C CNN
@@ -340,7 +340,7 @@ F 3 "" H 6730 4910 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW13
+L Pinky3-rescue:SW_PUSH-kbd SW13
 U 1 1 5BDBECBA
 P 7605 4910
 F 0 "SW13" H 7605 5165 50  0000 C CNN
@@ -351,18 +351,18 @@ F 3 "" H 7605 4910 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW14
+L Pinky3-rescue:SW_PUSH-kbd SW14
 U 1 1 5BDBF6B1
 P 7605 5570
 F 0 "SW14" H 7605 5825 50  0000 C CNN
 F 1 "SW_PUSH" H 7605 5734 50  0000 C CNN
-F 2 "kbd:CherryMX_KailhLowProfile_Hotswap" H 7605 5570 50  0001 C CNN
+F 2 "kbd:Choc_Hotswap" H 7605 5570 50  0001 C CNN
 F 3 "" H 7605 5570 50  0000 C CNN
 	1    7605 5570
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW15
+L Pinky3-rescue:SW_PUSH-kbd SW15
 U 1 1 5BDC050F
 P 8460 3570
 F 0 "SW15" H 8460 3825 50  0000 C CNN
@@ -373,7 +373,7 @@ F 3 "" H 8460 3570 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW16
+L Pinky3-rescue:SW_PUSH-kbd SW16
 U 1 1 5BDC09AE
 P 8460 4230
 F 0 "SW16" H 8460 4485 50  0000 C CNN
@@ -384,7 +384,7 @@ F 3 "" H 8460 4230 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW17
+L Pinky3-rescue:SW_PUSH-kbd SW17
 U 1 1 5BDC0E41
 P 8460 4910
 F 0 "SW17" H 8460 5165 50  0000 C CNN
@@ -395,18 +395,18 @@ F 3 "" H 8460 4910 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW18
+L Pinky3-rescue:SW_PUSH-kbd SW18
 U 1 1 5BDC1338
 P 8460 5570
 F 0 "SW18" H 8460 5825 50  0000 C CNN
 F 1 "SW_PUSH" H 8460 5734 50  0000 C CNN
-F 2 "kbd:CherryMX_KailhLowProfile_Hotswap" H 8460 5570 50  0001 C CNN
+F 2 "kbd:Choc_Hotswap" H 8460 5570 50  0001 C CNN
 F 3 "" H 8460 5570 50  0000 C CNN
 	1    8460 5570
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW19
+L Pinky3-rescue:SW_PUSH-kbd SW19
 U 1 1 5BDC2CE9
 P 9300 3570
 F 0 "SW19" H 9300 3825 50  0000 C CNN
@@ -417,7 +417,7 @@ F 3 "" H 9300 3570 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW20
+L Pinky3-rescue:SW_PUSH-kbd SW20
 U 1 1 5BDC2CF0
 P 9300 4230
 F 0 "SW20" H 9300 4485 50  0000 C CNN
@@ -428,7 +428,7 @@ F 3 "" H 9300 4230 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW21
+L Pinky3-rescue:SW_PUSH-kbd SW21
 U 1 1 5BDC2CF7
 P 9300 4910
 F 0 "SW21" H 9300 5165 50  0000 C CNN
@@ -439,12 +439,12 @@ F 3 "" H 9300 4910 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW22
+L Pinky3-rescue:SW_PUSH-kbd SW22
 U 1 1 5BDC2CFE
 P 9300 5570
 F 0 "SW22" H 9300 5825 50  0000 C CNN
 F 1 "SW_PUSH" H 9300 5734 50  0000 C CNN
-F 2 "kbd:CherryMX_KailhLowProfile_Hotswap" H 9300 5570 50  0001 C CNN
+F 2 "kbd:Choc_Hotswap" H 9300 5570 50  0001 C CNN
 F 3 "" H 9300 5570 50  0000 C CNN
 	1    9300 5570
 	1    0    0    -1  
@@ -783,7 +783,7 @@ col6
 Wire Wire Line
 	4335 5870 7905 5870
 $Comp
-L kbd:SW_PUSH SW23
+L Pinky3-rescue:SW_PUSH-kbd SW23
 U 1 1 5BF7CE09
 P 10185 3570
 F 0 "SW23" H 10185 3825 50  0000 C CNN
@@ -794,7 +794,7 @@ F 3 "" H 10185 3570 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW24
+L Pinky3-rescue:SW_PUSH-kbd SW24
 U 1 1 5BF7CE10
 P 10185 4230
 F 0 "SW24" H 10185 4485 50  0000 C CNN
@@ -805,7 +805,7 @@ F 3 "" H 10185 4230 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW25
+L Pinky3-rescue:SW_PUSH-kbd SW25
 U 1 1 5BF7CE17
 P 10185 4910
 F 0 "SW25" H 10185 5165 50  0000 C CNN
@@ -816,12 +816,12 @@ F 3 "" H 10185 4910 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW26
+L Pinky3-rescue:SW_PUSH-kbd SW26
 U 1 1 5BF7CE1E
 P 10185 5570
 F 0 "SW26" H 10185 5825 50  0000 C CNN
 F 1 "SW_PUSH" H 10185 5734 50  0000 C CNN
-F 2 "kbd:CherryMX_KailhLowProfile_Hotswap" H 10185 5570 50  0001 C CNN
+F 2 "kbd:Choc_Hotswap" H 10185 5570 50  0001 C CNN
 F 3 "" H 10185 5570 50  0000 C CNN
 	1    10185 5570
 	1    0    0    -1  
