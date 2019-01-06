@@ -9,8 +9,8 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 ![top plate](top-plate/Pinky3-top-plate.png)
 ![bottom plate](bottom-plate/Pinky3-bottom-plate-image.png)
 
+
 ## TODOs
 - [ ] add images (finished product, pcb, plates and parts?)
 - [ ] add BOM
 - [ ] add build log
-
