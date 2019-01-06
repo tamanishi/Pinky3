@@ -11,6 +11,6 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 
 
 ## TODOs
-- [ ] add images (finished product, pcb, plates and parts?)
-- [ ] add BOM
+- [x] add images (finished product, pcb, plates and parts?)
+- [ ] add BOM list
 - [ ] add build log
