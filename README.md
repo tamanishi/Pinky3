@@ -3,6 +3,8 @@
 A split 3 x 7 vertical ortholinear and 4 thumb keys keyboard.   
 An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](https://github.com/kata0510/Lily58), [Ergo42](https://github.com/Biacco42/Ergo42) and [Helix](https://github.com/MakotoKurauchi/helix).  
 
+and no LED.
+
 ![product](product.jpg)
 
 # Pcb & Plates
@@ -20,10 +22,10 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 4 | promicros | 2 |
 | 5 | reset switches | 2 |
 | 6 | TRRS jacks | 2 |
-| 7 | diodes (1N4148 or 1N4148W) | 58 |
-| 8 | Cherry MX compatible keyswitches | 50 |
+| 7 | diodes (1N4148 or 1N4148W) | 50 |
+| 8 | Cherry MX compatible keyswitches | 42 |
 | 9 | Kailh low profile (Choc) keyswitches | 8 |
-| 10 | Cherry MX compatible keycaps | 50 |
+| 10 | Cherry MX compatible keycaps | 42 |
 | 11 | Kailh low profile (Choc) compatible keycaps | 8 |
 | 12 | TRS or TRRS cable | 1 |
 | 13 | 7mm M2 standoffs | 10 |
