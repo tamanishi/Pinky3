@@ -2,13 +2,14 @@
 
 A split 3 x 7 vertical ortholinear and 4 thumb keys keyboard.   
 An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](https://github.com/kata0510/Lily58), [Ergo42](https://github.com/Biacco42/Ergo42) and [Helix](https://github.com/MakotoKurauchi/helix).  
- 
+
 ![product](product.jpg)
 
 # Pcb & Plates
 ![pcb](pcb/Pinky3-pcb.png)
-![top plate](top-plate/Pinky3-top-plate.png)
-![bottom plate](bottom-plate/Pinky3-bottom-plate-image.png)
+<!-- ![top plate](top-plate/Pinky3-top-plate.png)
+![bottom plate](bottom-plate/Pinky3-bottom-plate.png) -->
+![plates](plates/Pinky3-plates.png)
 
 # Bill of Materials (for both hands)
 | # | name | qty |
@@ -29,6 +30,8 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 14 | 5mm M2 standoffs | 4 |
 | 15 | 4mm M2 screws | 28 |
 
+# Firmware
+See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
 
 ## TODOs
 - [x] add images (finished product, pcb, plates and parts?)
