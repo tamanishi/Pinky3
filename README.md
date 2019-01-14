@@ -25,9 +25,9 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 10 | Cherry MX compatible keycaps | 50 |
 | 11 | Kailh low profile (Choc) compatible keycaps | 8 |
 | 12 | TRS or TRRS cable | 1 |
-| 13 | 7mm standoffs | 10 |
-| 14 | 5mm standoffs | 4 |
-| 15 | M2 4mm screws | 28 |
+| 13 | 7mm M2 standoffs | 10 |
+| 14 | 5mm M2 standoffs | 4 |
+| 15 | 4mm M2 screws | 28 |
 
 
 ## TODOs
