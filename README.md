@@ -17,7 +17,7 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 1 | pcbs | 2 |
 | 2 | top plates | 2 |
 | 3 | bottom plates | 2 |
-| 4 | promicros | 2 |
+| 4 | Pro Micros | 2 |
 | 5 | reset switches | 2 |
 | 6 | TRRS jacks | 2 |
 | 7 | diodes (1N4148 or 1N4148W) | 50 |
