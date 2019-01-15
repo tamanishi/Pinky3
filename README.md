@@ -7,9 +7,9 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 
 # Pcb & Plates
 ![pcb](pcb/Pinky3-pcb.png)
-<!-- ![top plate](top-plate/Pinky3-top-plate.png)
-![bottom plate](bottom-plate/Pinky3-bottom-plate.png) -->
-![plates](plates/Pinky3-plates.png)
+![top plate](top-plate/Pinky3-top-plate.png)
+![bottom plate](bottom-plate/Pinky3-bottom-plate.png)
+<!-- ![plates](plates/Pinky3-plates.png) -->
 
 # Bill of Materials (for both hands)
 | # | name | qty |
