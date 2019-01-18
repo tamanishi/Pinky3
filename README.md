@@ -21,14 +21,16 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 5 | 2 pins tact switches | 2 |
 | 6 | TRRS connectors | 2 |
 | 7 | diodes (1N4148 or 1N4148W) | 50 |
-| 8 | Cherry MX compatible keyswitches | 42 |
-| 9 | Kailh low profile (Choc) keyswitches | 8 |
-| 10 | Cherry MX compatible keycaps | 42 |
-| 11 | Kailh low profile (Choc) compatible keycaps | 8 |
-| 12 | TRS or TRRS cable | 1 |
-| 13 | 7mm M2 standoffs (for top and bottom plates) | 10 |
-| 14 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
-| 15 | 4mm M2 screws | 28 |
+| 8 | Kailh PCB Sockets (MX Sockets) | 42 |
+| 9 | Kailh PCB Sockets (Choc Sockets) | 8 |
+| 10 | Cherry MX compatible keyswitches | 42 |
+| 11 | Kailh low profile (Choc) keyswitches | 8 |
+| 12 | Cherry MX compatible keycaps | 42 |
+| 13 | Kailh low profile (Choc) compatible keycaps | 8 |
+| 14 | TRS or TRRS cable | 1 |
+| 14 | 7mm M2 standoffs (for top and bottom plates) | 10 |
+| 15 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
+| 16 | 4mm M2 screws | 28 |
 
 # Firmware
 See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
