@@ -28,9 +28,9 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 12 | Cherry MX compatible keycaps | 42 |
 | 13 | Kailh low profile (Choc) compatible keycaps | 8 |
 | 14 | TRS or TRRS cable | 1 |
-| 14 | 7mm M2 standoffs (for top and bottom plates) | 10 |
-| 15 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
-| 16 | 4mm M2 screws | 28 |
+| 15 | 7mm M2 standoffs (for top and bottom plates) | 10 |
+| 16 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
+| 17 | 4mm M2 screws | 28 |
 
 # Firmware
 See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
