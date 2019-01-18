@@ -26,8 +26,8 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 10 | Cherry MX compatible keycaps | 42 |
 | 11 | Kailh low profile (Choc) compatible keycaps | 8 |
 | 12 | TRS or TRRS cable | 1 |
-| 13 | 7mm M2 standoffs | 10 |
-| 14 | 5mm M2 standoffs | 4 |
+| 13 | 7mm M2 standoffs (for top and bottom plates) | 10 |
+| 14 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
 | 15 | 4mm M2 screws | 28 |
 
 # Firmware
