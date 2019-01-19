@@ -31,6 +31,7 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 15 | 7mm M2 standoffs (for top and bottom plates) | 10 |
 | 16 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
 | 17 | 4mm M2 screws | 28 |
+| 18 | rubber cushions | 8 |
 
 # Firmware
 See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
