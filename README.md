@@ -5,13 +5,15 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 
 ![product](product.jpg)
 
-# Pcb & Plates
+## Pcb & Plates
+
 ![pcb](pcb/Pinky3-pcb.png)
 ![top plate](top-plate&cover-plate/Pinky3-top-plate.png)
 ![bottom plate](bottom-plate/Pinky3-bottom-plate.png)
 <!-- ![plates](plates/Pinky3-plates.png) -->
 
-# Bill of Materials (for both hands)
+## Bill of Materials (for both hands)
+
 | # | name | qty |
 | ---: | :--- | ---: |
 | 1 | pcbs | 2 |
@@ -33,10 +35,12 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 17 | 4mm M2 screws | 28 |
 | 18 | rubber cushions | 8 |
 
-# Firmware
+## Firmware
+
 See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky support page](https://github.com/qmk/qmk_firmware/blob/master/keyboards/pinky/readme.md)
 
 ## TODOs
+
 - [x] add images (finished product, pcb, plates and parts?)
 - [x] add BOM
 - [ ] add build log
