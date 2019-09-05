@@ -5,9 +5,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Pinky3 thin-proto"
+Title "Pinky3"
 Date "2019-09-03"
-Rev "1.0a"
+Rev "1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
