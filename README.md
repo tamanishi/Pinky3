@@ -20,20 +20,21 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 2 | top plates | 2 |
 | 3 | bottom plates | 2 |
 | 4 | Pro Micros | 2 |
-| 5 | 2 pins tact switches | 2 |
-| 6 | TRRS connectors | 2 |
-| 7 | diodes (1N4148 or 1N4148W) | 50 |
-| 8 | Kailh PCB Sockets (MX Sockets) | 42 |
-| 9 | Kailh PCB Sockets (Choc Sockets) | 8 |
-| 10 | Cherry MX compatible keyswitches | 42 |
-| 11 | Kailh low profile (Choc) keyswitches | 8 |
-| 12 | Cherry MX compatible keycaps | 42 |
-| 13 | Kailh low profile (Choc) compatible keycaps | 8 |
-| 14 | TRS or TRRS cable | 1 |
-| 15 | 7mm M2 standoffs (for top and bottom plates) | 10 |
-| 16 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
-| 17 | 4mm M2 screws | 28 |
-| 18 | rubber cushions | 8 |
+| 5 | Conthrough for Pro Micros | 4 |
+| 6 | 2 pins tact switches | 2 |
+| 7 | TRRS connectors | 2 |
+| 8 | diodes (1N4148 or 1N4148W) | 50 |
+| 9 | Kailh PCB Sockets (MX Sockets) | 42 |
+| 10 | Kailh PCB Sockets (Choc Sockets) | 8 |
+| 11 | Cherry MX compatible keyswitches | 42 |
+| 12 | Kailh low profile (Choc) keyswitches | 8 |
+| 13 | Cherry MX compatible keycaps | 42 |
+| 14 | Kailh low profile (Choc) compatible keycaps | 8 |
+| 15 | TRS or TRRS cable | 1 |
+| 16 | 7mm M2 standoffs (for top and bottom plates) | 10 |
+| 17 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
+| 18 | 4mm M2 screws | 28 |
+| 19 | rubber cushions | 8 |
 
 ## Firmware
 
