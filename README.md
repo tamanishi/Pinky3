@@ -33,7 +33,7 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 14 | TRS or TRRS cable | 1 |
 | 15 | 4mm M2 standoffs (for top and bottom plates) | 10 |
 | 16 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
-| 17 | 4mm M2 screws | 28 |
+| 17 | 3mm M2 screws | 28 |
 | 18 | rubber cushions | 8 |
 
 ## Firmware
