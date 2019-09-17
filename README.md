@@ -47,3 +47,4 @@ See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky suppor
 ## TODOs
 
 - [ ] add build log
+- [ ] improve keycaps
