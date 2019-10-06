@@ -44,6 +44,7 @@ See [Quantum Mechanical Keyboard Firmware](https://qmk.fm) and [its Pinky suppor
 ## Thanks
 
 - [KiCad footprint for Kailh PG1425 X Switch](https://github.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch) by [shikamiya](https://github.com/shikamiya)
+- [Kailh Choc用キーキャップRSX](https://make.dmm.com/item/970904/) by [monksoffunk（もんく）Zinc/Attack25販売中](https://twitter.com/monksoffunkjp)
 
 ## TODOs
 
