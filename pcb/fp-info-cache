@@ -1,4 +1,4 @@
-272899351422774
+271374627901774
 Keebio-Parts
 3_Pin_Jumper
 
@@ -1204,13 +1204,6 @@ Choc_Hotswap
 4
 2
 lib
-Kailh-PG1350-1u-reversible
-
-
-0
-3
-2
-lib
 Kailh-PG1425-X-Switch-reversible
 
 
@@ -1218,21 +1211,21 @@ Kailh-PG1425-X-Switch-reversible
 4
 2
 lib
-Pinky2-logo
+Kailh_PG1232
 
 
 0
-0
-0
-lib
-ProMicro_v2
-
-
-0
-48
-24
+6
+4
 lib
 breakaway-mousebites
+
+
+0
+0
+0
+lib
+pinky3
 
 
 0
