@@ -32,7 +32,7 @@ An idea is inspired from [crkbd](https://github.com/foostan/crkbd), [Lily58](htt
 | 12 | Kailh Choc compatible keycaps | 50 |
 | 13 | TRS or TRRS cable | 1 |
 | 14 | 4mm M2 standoffs (for top and bottom plates) | 10 |
-| 15 | 5mm M2 standoffs (for Pro Micro cover plates) | 4 |
+| 15 | 5.5mm M2 standoffs (for Pro Micro cover plates) | 4 |
 | 16 | 3mm M2 screws | 28 |
 | 17 | rubber cushions | 8 |
 
